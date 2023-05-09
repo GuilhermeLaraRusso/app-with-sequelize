@@ -1,0 +1,3 @@
+# app-with-sequelize
+
+Teste
